@@ -4,7 +4,7 @@
   "description": "Adaptors from BOB streaming interfaces to Node.js's Streams3",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./test/test-basic-source.js && node ./test/test-basic-sink.js"
   },
   "keywords": [
     "BOB",
