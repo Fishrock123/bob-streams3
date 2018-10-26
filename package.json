@@ -1,0 +1,23 @@
+{
+  "name": "bob-streams3",
+  "version": "0.0.0",
+  "description": "Adaptors from BOB streaming interfaces to Node.js's Streams3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BOB",
+    "streams",
+    "streams3",
+    "pull",
+    "pull-stream",
+    "sink",
+    "source",
+    "transform"
+  ],
+  "author": "Jeremiah Senkpiel <fishrock123@rocketmail.com>",
+  "license": "MIT",
+  "repository": "github:Fishrock123/bob-streams3",
+  "homepage": "https://github.com/Fishrock123/bob-streams3"
+}
